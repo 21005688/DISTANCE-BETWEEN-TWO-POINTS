@@ -3,16 +3,17 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
+
 ### Step 1:
-Get the two values from the user
+Import the numpy module to use the built-in functions for calculation.
 ### Step 2:
-assign the value of second variable to the second variable
+Prepare the lists for each linear equations and assign array in np.sqrt().
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### Step 4:
-assign the valu in temporary variable to the first variable
+End the program.
 ### Step 5:
-End the pragram
+Then print the values.
 ### PROGRAM:
 ~~~
 #Program to find the distance between two points.
@@ -33,3 +34,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+A python program is executed successfully to find the distance between two points.
